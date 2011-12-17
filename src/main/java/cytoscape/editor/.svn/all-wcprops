@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/22697/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor
+END
+CytoscapeEditorPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/CytoscapeEditorPlugin.java
+END
+CytoscapeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/CytoscapeEditor.java
+END
+ShapePaletteInfoFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/ShapePaletteInfoFilter.java
+END
+ShapePaletteInfoGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/ShapePaletteInfoGenerator.java
+END
+AddEdgeEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/AddEdgeEdit.java
+END
+AddNodeEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/AddNodeEdit.java
+END
+GraphicalEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/GraphicalEntity.java
+END
+DragSourceContextCursorSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/DragSourceContextCursorSetter.java
+END
+CytoscapeEditorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/CytoscapeEditorFactory.java
+END
+ShapePaletteInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/ShapePaletteInfo.java
+END
+CytoscapeEditorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/CytoscapeEditorManager.java
+END
+InvalidEditorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/InvalidEditorException.java
+END

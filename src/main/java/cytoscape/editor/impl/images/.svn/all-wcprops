@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/impl/images
+END
+deleteIcon.gif
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/impl/images/deleteIcon.gif
+END
+pspbrwse.jbf
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/impl/images/pspbrwse.jbf
+END
+undo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/impl/images/undo.gif
+END
+redo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/21898/cytoscape/trunk/coreplugins/CytoscapeEditor2/src/main/java/cytoscape/editor/impl/images/redo.gif
+END
